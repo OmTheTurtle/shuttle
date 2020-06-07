@@ -1,0 +1,8 @@
+brave-bin
+icaclient
+lf-bin
+nvm
+rambox-bin
+redshiftgui-bin
+spaceship-prompt-git
+spotify
