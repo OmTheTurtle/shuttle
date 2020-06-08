@@ -23,5 +23,13 @@ cp .vimrc .zshrc .gitconfig ~
 # that is available from the arch package repository
 cp .vscode/settings.json ~/.config/Code\ -\ OSS/User/
 
+[ ! -d "~/.local/share/fonts" ] && mkdir ~/.local/share/fonts
+
+echo Installing JetBrains Mono font
+cd /tmp
+wget -q -O jbmono.zip https://download.jetbrains.com/fonts/JetBrainsMono-1.0.3.zip && unzip jbmono.zip && rm jbmono.zip
+
+mv jbmono/ttf/ ~/.local/share/fonts
+
 echo All done!
 
