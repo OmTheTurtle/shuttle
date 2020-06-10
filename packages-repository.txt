@@ -43,6 +43,7 @@ fakeroot
 feh
 ffmpegthumbnailer
 firefox
+firefox-developer-edition
 flex
 galculator
 gcc
@@ -122,6 +123,7 @@ networkmanager-openvpn
 nitrogen
 noto-fonts
 noto-fonts-cjk
+noto-fonts-emoji
 nss-mdns
 ntfs-3g
 openconnect
@@ -134,8 +136,10 @@ pavucontrol
 pcurses
 perl
 pkgconf
+playerctl
 polkit-gnome
 poppler-glib
+postgresql
 pptpclient
 pulseaudio
 r8168
