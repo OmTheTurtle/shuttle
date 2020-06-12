@@ -17,7 +17,6 @@ yay -S --needed < packages-AUR.txt
 echo "Cloning dotfiles to `~/repos/dotfiles`"
 git clone https://github.com/omtheturtle/dotfiles ~/repos/dotfiles
 
-# Change to dotfiles directory
 cd ~/repos/dotfiles
 
 echo "Copying config files..."

@@ -78,6 +78,7 @@ intel-ucode
 ipw2100-fw
 ipw2200-fw
 iwd
+jdk-openjdk
 jfsutils
 jq
 leafpad
@@ -153,6 +154,7 @@ screenfetch
 scrot
 smartmontools
 solid
+steam
 sudo
 sysfsutils
 sysstat
