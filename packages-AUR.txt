@@ -1,4 +1,5 @@
 brave-bin
+github-cli-bin
 icaclient
 lf-bin
 nvm

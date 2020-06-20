@@ -29,6 +29,7 @@ dialog
 diffutils
 dmenu
 dnsmasq
+docker
 dunst
 e2fsprogs
 efibootmgr
