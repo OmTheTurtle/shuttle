@@ -3,7 +3,7 @@
 echo "Create basic folders"
 mkdir ~/repos ~/Videos/Movies ~/Videos/Shows
 
-# to list packages installed by pacman (excludin AUR):
+# to list packages installed by pacman (excluding AUR):
 # pacman -Qqen
 # to list packages installed from AUR:
 # pacman -Qqem
