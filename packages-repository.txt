@@ -44,7 +44,6 @@ fakeroot
 feh
 ffmpegthumbnailer
 firefox
-firefox-developer-edition
 flex
 galculator
 gcc
@@ -157,6 +156,7 @@ smartmontools
 solid
 steam
 sudo
+sxiv
 sysfsutils
 sysstat
 systemd-sysvcompat
