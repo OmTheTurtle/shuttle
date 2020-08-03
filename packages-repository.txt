@@ -13,9 +13,11 @@ automake
 b43-fwcutter
 base
 bash-completion
-bind-tools
+bind
 binutils
 bison
+blueman
+bluez-plugins
 bluez-utils
 brightnessctl
 broadcom-wl-dkms
@@ -44,6 +46,7 @@ fakeroot
 feh
 ffmpegthumbnailer
 firefox
+flameshot
 flex
 galculator
 gcc

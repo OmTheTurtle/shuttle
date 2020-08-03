@@ -1,6 +1,7 @@
 brave-bin
 github-cli-bin
 icaclient
+mongodb-bin
 nvm
 rambox-bin
 spaceship-prompt-git
