@@ -10,6 +10,7 @@ arc-x-icons-theme
 archlinux-xdg-menu
 autoconf
 automake
+autorandr
 b43-fwcutter
 base
 bash-completion
@@ -29,6 +30,7 @@ device-mapper
 dhclient
 dialog
 diffutils
+discord
 dmenu
 dnsmasq
 docker
@@ -50,6 +52,7 @@ flameshot
 flex
 galculator
 gcc
+github-cli
 glances
 gnu-free-fonts
 gnu-netcat
@@ -89,6 +92,7 @@ less
 libdvdcss
 libgsf
 libopenraw
+libreoffice-fresh
 libtool
 libwnck3
 lightdm
@@ -137,6 +141,7 @@ pacman-contrib
 paprefs
 patch
 pavucontrol
+pcmanfm
 pcurses
 perl
 pkgconf
@@ -167,6 +172,7 @@ texinfo
 thunar
 thunar-archive-plugin
 thunar-volman
+tldr
 tlp
 transmission-gtk
 ttf-bitstream-vera
