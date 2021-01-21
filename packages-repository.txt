@@ -8,6 +8,8 @@ arandr
 arc-gtk-theme
 arc-x-icons-theme
 archlinux-xdg-menu
+aspell
+aspell-hu
 autoconf
 automake
 autorandr
@@ -51,6 +53,7 @@ firefox
 flameshot
 flex
 galculator
+garcon
 gcc
 github-cli
 glances
@@ -82,6 +85,7 @@ i3lock
 i3status
 inetutils
 intel-ucode
+inxi
 ipw2100-fw
 ipw2200-fw
 iwd
@@ -151,6 +155,7 @@ playerctl
 polkit-gnome
 poppler-glib
 postgresql
+postgresql-old-upgrade
 pptpclient
 pulseaudio
 r8168
@@ -158,6 +163,7 @@ reflector
 reiserfsprogs
 rofi
 rp-pppoe
+rxvt-unicode
 s-nail
 s-tui
 screenfetch
@@ -190,7 +196,6 @@ texlive-pstricks
 texlive-publishers
 texlive-science
 thunar
-thunar-archive-plugin
 thunar-volman
 tldr
 tlp
@@ -205,6 +210,7 @@ ttf-ubuntu-font-family
 tumbler
 unzip
 upower
+urxvt-perls
 usb_modeswitch
 usbutils
 vi
@@ -216,6 +222,7 @@ whois
 wireless-regdb
 wireless_tools
 wvdial
+xclip
 xcompmgr
 xcursor-neutral
 xdg-user-dirs
@@ -224,7 +231,16 @@ xdg-utils
 xf86-video-fbdev
 xf86-video-intel
 xf86-video-vesa
+xfce4-appfinder
+xfce4-panel
+xfce4-power-manager
+xfce4-session
+xfce4-settings
+xfce4-terminal
+xfdesktop
 xfsprogs
+xfwm4
+xfwm4-themes
 xl2tpd
 xorg-server
 xorg-xbacklight
@@ -235,5 +251,6 @@ xorg-xrandr
 xterm
 yad
 yay
+zip
 zsh
 zsh-syntax-highlighting

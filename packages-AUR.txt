@@ -2,10 +2,10 @@ brave-bin
 figma-linux
 heroku-cli-bin
 icaclient
-insomnia
 mongodb-bin
 nvm
 rambox-bin
 spaceship-prompt-git
 spotify
 teams
+urxvt-resize-font-git
