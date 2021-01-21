@@ -7,5 +7,4 @@ nvm
 rambox-bin
 spaceship-prompt-git
 spotify
-teams
 urxvt-resize-font-git
