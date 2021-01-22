@@ -21,7 +21,7 @@ cd ~/repos/dotfiles
 
 echo "Copying config files..."
 cp -r .config/. ~/.config
-cp .vimrc .zshrc .gitconfig ~
+cp .vimrc .zshrc .gitconfig .Xresources ~
 
 # This assumes that the OSS version of VSCode is installed
 # that is available from the arch package repository
