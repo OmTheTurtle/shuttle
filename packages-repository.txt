@@ -95,7 +95,6 @@ less
 libdvdcss
 libgsf
 libopenraw
-libreoffice-fresh
 libtool
 libwnck3
 lightdm

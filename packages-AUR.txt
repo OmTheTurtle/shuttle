@@ -1,5 +1,4 @@
 brave-bin
-figma-linux
 heroku-cli-bin
 icaclient
 mongodb-bin
@@ -7,4 +6,5 @@ nvm
 rambox-bin
 spaceship-prompt-git
 spotify
+teams
 urxvt-resize-font-git
