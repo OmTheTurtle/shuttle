@@ -1,6 +1,5 @@
 brave-bin
 heroku-cli-bin
-icaclient
 mongodb-bin
 nvm
 rambox-bin

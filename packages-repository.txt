@@ -234,8 +234,8 @@ xorg-xinput
 xorg-xkill
 xorg-xrandr
 xterm
-yad
 yay
+youtube-dl
 zip
 zsh
 zsh-syntax-highlighting
