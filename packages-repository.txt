@@ -1,5 +1,6 @@
 accountsservice
 acpi
+alacritty
 alsa-firmware
 alsa-plugins
 alsa-utils
@@ -24,6 +25,7 @@ bluez-utils
 brightnessctl
 broadcom-wl-dkms
 btrfs-progs
+calibre
 capitaine-cursors
 code
 cryptsetup
