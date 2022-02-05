@@ -1,8 +1,6 @@
 brave-bin
-heroku-cli-bin
-mongodb-bin
+hardinfo
 nvm
 rambox-bin
 spaceship-prompt-git
 spotify
-urxvt-resize-font-git

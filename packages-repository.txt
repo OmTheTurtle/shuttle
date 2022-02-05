@@ -76,7 +76,6 @@ gvfs-gphoto2
 gvfs-mtp
 gvfs-nfs
 gvfs-smb
-hardinfo
 htop
 hwinfo
 i3-wm
