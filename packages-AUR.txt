@@ -1,6 +1,2 @@
-brave-bin
-hardinfo
-nvm
-rambox-bin
-spaceship-prompt-git
-spotify
+autotiling
+spaceship-prompt
